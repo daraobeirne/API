@@ -14,7 +14,7 @@ class Human(object):
 		self.birthday = birthday
 	def get_sleep_time(self):
 		return "8 hours"
-"""
+"""	
 
 class CPIData(object):
 	"""Abstraction of the CPI data provided by FRED.
